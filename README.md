@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Julia Eliza
-- 👀 I’m interested in coding, tech...
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to understand this place
+Estudante de Análise e desenvolvimento de sistemas.
 
 <!---
 juliaelizaps/juliaelizaps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
