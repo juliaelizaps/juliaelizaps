@@ -23,8 +23,8 @@
 </details>
 
 <!-- Links -->
-[![Instagram](https://www.instagram.com/juliaelizasantos/)
-[![LinkedIn](www.linkedin.com/in/julia-eliza-p-154176226)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juliaelizasantos/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/julia-eliza-p-154176226)
 
 <!-- GithubStats -->
 
