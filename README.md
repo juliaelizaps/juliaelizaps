@@ -10,7 +10,6 @@
 
   - 🌱 I’m currently studying Systems Development.
 
-  - 🔭 I am looking for my first job opportunity.
 </p>
 
 <!-- Dropdown -->
