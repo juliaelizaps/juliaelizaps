@@ -40,6 +40,7 @@
 <img align="center" alt="react" height="30" width="40" src="https://user-images.githubusercontent.com/80909206/186494442-01637a20-4007-4121-8097-e39f6fb06948.svg">
 <img align="center" alt="css3" height="30" width="40" src="https://user-images.githubusercontent.com/80909206/186494537-9702c644-e320-40aa-b774-42628b2bd0f2.svg">
 <img align="center" alt="html5" height="30" width="40" src="https://user-images.githubusercontent.com/80909206/186494635-943aec22-d0ec-4088-af90-62bcd6e9f974.svg">
+
 </div>
 
 
