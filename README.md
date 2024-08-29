@@ -17,7 +17,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 24 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Python, Java/Spring Boot.
+  - 💬 I am 24 years old, currently living in Brazil. I have fluency in English and have experience with Dart, Flutter, SQL, Python, Java, Spring Boot, Html, CSS, JavaScript.
 
   - ⚡ I enjoy reading, whether it's a good book, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. 
 </details>
