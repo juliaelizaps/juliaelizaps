@@ -26,6 +26,7 @@
 
 <!-- Icones de linguagens que uso-->
 
+<img align="center" alt="csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 <img align="center" alt="dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
 <img align="center" alt="flutter" height="30" width="40" src="https://avatars.githubusercontent.com/u/14101776?s=200&v=4">
 <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
