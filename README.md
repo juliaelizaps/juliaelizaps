@@ -26,10 +26,10 @@
 
 <!-- Icones de linguagens que uso-->
 
-<img align="center" alt="csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 <img align="center" alt="dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
 <img align="center" alt="flutter" height="30" width="40" src="https://avatars.githubusercontent.com/u/14101776?s=200&v=4">
-<img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+<img align="center" alt="csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+<!--<img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">-->
 
 <img align="center" alt="git" height="30" width="40" src="https://user-images.githubusercontent.com/80909206/186494829-db2a58f3-d3d7-412d-a7f1-400a7d81ab20.svg">
 <img align="center" alt="python" height="30" width="40" src="https://user-images.githubusercontent.com/80909206/186495285-770a1202-0cc8-4726-b377-3e2981873d63.svg">
