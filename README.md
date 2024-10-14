@@ -52,7 +52,12 @@
 
 <!-- GithubStats -->
 
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=juliaelizaps&show_icons=true&theme=panda)
+<table>
+  <tr>
+    <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliaelizaps&show_icons=true&theme=panda"/></td>
+    <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelosj3&layout=compact&langs_count=10&theme=panda"/></td>
+  </tr>
+</table>
 
 <!-- Portfolio -->
 ## Portfolio:
