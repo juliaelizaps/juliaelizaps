@@ -64,7 +64,8 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Dart -  Bank-Exception-test](https://github.com/juliaelizaps/Bank_Excepions_test) 
+- [Flutter -  App Gerencie - Gerenciador de Food Trucks](https://github.com/juliaelizaps/Food-Truck-manager) 
+- [Flutter -  Bank-Exception-test](https://github.com/juliaelizaps/Bank_Excepions_test) 
 - [Python -  AI-Mushroom-Decision-tree ](https://github.com/juliaelizaps/AI-Mushroom-Decision-tree)
 - [JavaScript - Cute Calendar](https://github.com/juliaelizaps/Cute---calendar)
 <!-- GIF -->
