@@ -7,9 +7,9 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Julia! Dev student from Brazil.
+  Hi 👋, I'm Julia! Tech girl from Brazil.
 
-  - 🌱 I’m currently studying Systems Development.
+  - 🌱 I have a degree in Systems Development.
 
 </p>
 
@@ -17,7 +17,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 24 years old, currently living in Brazil. I have fluency in English and have experience with Dart, Flutter, Firebase, SQL, Python, Java, Spring Boot,.NET, C#.
+  - 💬 I am 24 years old, currently living in Brazil. I have fluency in English and have experience with TypeScript, React, Flutter, Firebase, SQL.
 
   - ⚡ I enjoy reading, whether it's a good book, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. 
 </details>
