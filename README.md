@@ -17,7 +17,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 24 years old, currently living in Brazil. I have fluency in English and have experience with TypeScript, React, Flutter, Firebase, SQL.
+  - 💬 I am 25 years old, currently living in Brazil. I have fluency in English and have experience with TypeScript, Bun, Node.js, MongoDB, Flutter, Firebase, SQL.
 
   - ⚡ I enjoy reading, whether it's a good book, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. 
 </details>
