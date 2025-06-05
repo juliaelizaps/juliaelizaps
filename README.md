@@ -7,7 +7,7 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Julia! Tech girl from Brazil.
+  Hi 👋, I'm Julia! Fullstack Developer.
 
   - 🌱 I have a degree in Systems Development.
 
