@@ -7,10 +7,7 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Julia! Fullstack Developer.
-
-  - 🌱 I have a degree in Systems Development.
-
+  Hi 👋, I'm Julia! Software Engineer.
 </p>
 
 <!-- Dropdown -->
