@@ -11,21 +11,18 @@
 </p>
 
 <div align="center">
-<!-- Icones de linguagens que uso-->
-<!--<img align="center" alt="csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">-->
-<!--<img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">-->
-
-<img align="center" alt="typescript" height="30" width="40" src="https://user-images.githubusercontent.com/80909206/186494244-478a1cc4-f251-4829-a31e-7fc40140df4a.svg">
-<img align="center" alt="javascript" height="30" width="40" src="https://user-images.githubusercontent.com/80909206/186494330-1c20bbba-139a-4c54-82a1-16723a2de72e.svg">
-<img align="center" alt="react" height="30" width="40" src="https://user-images.githubusercontent.com/80909206/186494442-01637a20-4007-4121-8097-e39f6fb06948.svg">
-<img align="center" alt="css3" height="30" width="40" src="https://user-images.githubusercontent.com/80909206/186494537-9702c644-e320-40aa-b774-42628b2bd0f2.svg">
-<img align="center" alt="html5" height="30" width="40" src="https://user-images.githubusercontent.com/80909206/186494635-943aec22-d0ec-4088-af90-62bcd6e9f974.svg">
-<img align="center" alt="git" height="30" width="40" src="https://user-images.githubusercontent.com/80909206/186494829-db2a58f3-d3d7-412d-a7f1-400a7d81ab20.svg">
-<img align="center" alt="nodejs" height="30" width="40" src="https://user-images.githubusercontent.com/80909206/186495039-626f9365-0c89-4847-9c87-6dce104ab96c.svg">
-<img align="center" alt="mysql" height="30" width="40" src="https://user-images.githubusercontent.com/80909206/186498196-1fb3b748-a9ef-4818-8de0-f087b55071ed.svg">
-
-<!--<img align="center" alt="postgresql" height="30" width="40" src="https://user-images.githubusercontent.com/80909206/186498359-9c374046-fca6-40ae-bc4b-59bdad8421e7.svg">-->
-<!--<img align="center" alt="dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">-->
+  <table>
+    <tr>
+      <td><img alt="typescript" height="30" width="40" src="https://user-images.githubusercontent.com/80909206/186494244-478a1cc4-f251-4829-a31e-7fc40140df4a.svg"></td>
+      <td><img alt="javascript" height="30" width="40" src="https://user-images.githubusercontent.com/80909206/186494330-1c20bbba-139a-4c54-82a1-16723a2de72e.svg"></td>
+      <td><img alt="react" height="30" width="40" src="https://user-images.githubusercontent.com/80909206/186494442-01637a20-4007-4121-8097-e39f6fb06948.svg"></td>
+      <td><img alt="css3" height="30" width="40" src="https://user-images.githubusercontent.com/80909206/186494537-9702c644-e320-40aa-b774-42628b2bd0f2.svg"></td>
+      <td><img alt="html5" height="30" width="40" src="https://user-images.githubusercontent.com/80909206/186494635-943aec22-d0ec-4088-af90-62bcd6e9f974.svg"></td>
+      <td><img alt="git" height="30" width="40" src="https://user-images.githubusercontent.com/80909206/186494829-db2a58f3-d3d7-412d-a7f1-400a7d81ab20.svg"></td>
+      <td><img alt="nodejs" height="30" width="40" src="https://user-images.githubusercontent.com/80909206/186495039-626f9365-0c89-4847-9c87-6dce104ab96c.svg"></td>
+      <td><img alt="mysql" height="30" width="40" src="https://user-images.githubusercontent.com/80909206/186498196-1fb3b748-a9ef-4818-8de0-f087b55071ed.svg"></td>
+    </tr>
+  </table>
 </div>
 <hr style="border: 1px solid #ccc;" />
 <img align="center" alt="javascript" height="80" width="80" src= https://github.com/user-attachments/assets/fc60fc1c-a125-4b7d-8ca2-ebae5d160247>
