@@ -27,7 +27,7 @@
 <hr style="border: 1px solid #ccc;" />
 <img align="center" alt="javascript" height="80" width="80" src= https://github.com/user-attachments/assets/fc60fc1c-a125-4b7d-8ca2-ebae5d160247>
 
-[My Tiktok: 🌸Julia🌸](https://www.tiktok.com/@blanyajulia?is_from_webapp=1&sender_device=pc)
+[My Tiktok: 🌸Julia🌸](https://www.tiktok.com/@juliaelizasantos?is_from_webapp=1&sender_device=pc)
 
 <hr style="border: 1px solid #ccc;" />
 
